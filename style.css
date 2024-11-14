@@ -1,0 +1,63 @@
+header {
+  margin-top: 70px;
+  text-align: center;
+}
+#Parrafo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+  position: relative;
+  top: -20px;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100;
+  text-align: center;
+}
+p {
+  max-width: 600px;
+  margin: 0 auto;
+  
+}
+#mapard{
+  width: 900px;
+  height: auto;
+  margin-top: 20px;
+  border-width: 5px;
+  border-color: black;
+  border-style: ridge;
+}
+a{
+  color: black;
+}
+section {
+  margin: 20px 0;
+}
+.Monumento{
+    img{
+      width: 500px;
+      border-width: 3px;
+      border-color: black;
+      border-style: solid;
+    }
+}
+
+.Monumento3{
+  img{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;    
+    }
+}
+
+footer {
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 20px;
+  color: rgb(189, 183, 183);
+  position: relative;
+  top: -20px;
+}
